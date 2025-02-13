@@ -27,7 +27,7 @@ I am a dedicated developer with a keen interest in building efficient and scalab
 ## Get in Touch
 
 - **GitHub:** [sonunitp](https://github.com/sonunitp)
-- **LinkedIn:** [Sonu Kumar](www.linkedin.com/in/sonu-kumar-b9651624b)
+- **LinkedIn:** [Sonu Kumar](https://linkedin.com/in/sonu-kumar-b9651624b)
 - **Email:** [Email](mailto:sonu7110075@gmail.com)
 
 Feel free to reach out if you have any questions or if you would like to collaborate on a project!
