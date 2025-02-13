@@ -1,35 +1,37 @@
-# Hi there, I'm Sonu! 👋
+# 👋 Hi, I'm Sonu
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and contributing to open source projects. Here you'll find a variety of projects that I've worked on, ranging from web development to machine learning.
+Welcome to my GitHub profile! I'm passionate about web development and software engineering. Below you'll find more information about me, my projects, and my interests.
 
-## 🔭 Current Projects
-- **Project Name**: Brief description of the project.
-- **Another Project**: Brief description of this project as well.
+## About Me
 
-## 🌱 Learning
-I'm currently expanding my knowledge in:
-- **Technology 1**: Brief description or current progress.
-- **Technology 2**: Brief description or current progress.
+I am a dedicated developer with a keen interest in building efficient and scalable web applications. I love experimenting with new technologies and constantly improving my skills.
 
-## 💼 Professional Experience
-- **Job Title at Company Name**: Brief description of your role and responsibilities.
-- **Another Job Title at Another Company**: Brief description of your role and responsibilities.
+## My Projects
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
+### ToDo List with React and Tailwind
+- **Description:** A simple and efficient ToDo list application built using React and styled with Tailwind CSS. This project showcases my skills in front-end development and state management in React.
+- **Repository:** [ToDo List with React and Tailwind](https://github.com/sonunitp/todo-list)
 
-## 📫 Get in Touch
-Feel free to reach out to me via [email@example.com](mailto:email@example.com).
+### Supermarket Billing System
+- **Description:** A supermarket billing system that helps manage and streamline the billing process. This project demonstrates my abilities in back-end development, database management, and creating user-friendly interfaces.
+- **Repository:** [Supermarket Billing System](https://github.com/sonunitp/supermarket_billing)
 
-## 📊 GitHub Stats
-![Sonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonunitp&show_icons=true&theme=radical)
+## Interests
 
-## 🏆 GitHub Trophies
-![Sonu's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sonunitp&theme=gruvbox)
+- Web Development
+- Front-end Frameworks (React, Vue.js)
+- UI/UX Design
+- Back-end Development
+- Database Management
 
-## 💡 Fun Fact
-- Share a fun fact about yourself!
+## Get in Touch
 
-Thanks for visiting my profile! Have a great day! 😊
+- **GitHub:** [sonunitp](https://github.com/sonunitp)
+- **LinkedIn:** [Your LinkedIn Profile](www.linkedin.com/in/sonu-kumar-b9651624b)
+- **Email:** [Your Email Address](mailto@sonu7110075@gmail.com)
+
+Feel free to reach out if you have any questions or if you would like to collaborate on a project!
+
+---
+
+Thank you for visiting my profile. Happy coding! 🚀
