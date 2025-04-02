@@ -10,11 +10,7 @@ I am a dedicated developer with a keen interest in building efficient and scalab
 
 ### ToDo List with React and Tailwind
 - **Description:** A simple and efficient ToDo list application built using React and styled with Tailwind CSS. This project showcases my skills in front-end development and state management in React.
-- **Repository:** [ToDo List with React and Tailwind](https://github.com/sonunitp/todo-list)
-
-### Supermarket Billing System
-- **Description:** A supermarket billing system that helps manage and streamline the billing process. This project demonstrates my abilities in back-end development, database management, and creating user-friendly interfaces.
-- **Repository:** [Supermarket Billing System](https://github.com/sonunitp/supermarket_billing)
+- **Repository:** [ToDo List with React and Tailwind](https://github.com/sonunitp/todo-list
 
 ## Interests
 
